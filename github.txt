@@ -1,0 +1,8 @@
+
+
+#steps:
+1)we first create gitignore, we add those things in gitignore that are very big and we dont want them to get pushed in github,
+for ex. if there is folder called node_modules , then adding the name of this folder in gitignore file
+
+To create gitignore file , use command touch .gitignore
+THis step is optional, if you have something that you really dont want to get pushed ,use this step
